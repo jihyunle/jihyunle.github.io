@@ -1,0 +1,83 @@
+body {
+
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    background-image: url('https://res.cloudinary.com/jihyunle/image/upload/v1550854259/aerial-3246120.jpg');
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
+.bgimg{
+    background-image:  url('https://images.pond5.com/computer-coding-background-footage-090890180_prevstill.jpeg');
+    opacity: 0.6;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.bloghome{
+    text-align: center;
+    color: white;
+}
+
+.card {
+    background-color: #b0c4de;
+}
+
+.blogpostscontainer, .cbg{
+    background-image:
+            linear-gradient(
+                    rgba(0, 0, 0, 0.6),
+                    rgba(0, 0, 0, 0.6)
+            )
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+
+
+/* Josiah's card template*/
+/*.card {*/
+    /*display: inline-block;*/
+    /*position: relative;*/
+    /*margin-bottom: 30px;*/
+    /*border-radius: 6px;*/
+    /*color: #000000dc;*/
+    /*background: #fff;*/
+    /*box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);*/
+    /*.image {*/
+        /*position: relative;*/
+        /*overflow: hidden;*/
+        /*margin-left: 15px;*/
+        /*margin-right: 15px;*/
+        /*margin-top: 30px * -1;*/
+        /*border-radius: 6px;*/
+        /*box-shadow: 0 16px 38px -12px rgba(0, 0, 0, 0.56), 0 4px 25px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);*/
+        /*img {*/
+            /*width: 100%;*/
+            /*height: 100%;*/
+            /*border-radius: 6px;*/
+        /*}*/
+    /*}*/
+/*}*/
+
+/*.card-caption {*/
+    /*font-weight: 700;*/
+    /*font-family: 'Amatic SC', cursive;*/
+    /*font-size: 2em;*/
+    /*a {*/
+        /*color: #436480;*/
+        /*text-decoration: none;*/
+    /*}*/
+/*}*/
